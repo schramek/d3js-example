@@ -1,0 +1,129 @@
+{
+  "name": "flare",
+  "children": [
+    {
+      "name": "applic.collab. 1",
+      "mlShould": 1,
+      "mlIs": 3,
+      "children": [
+        {
+          "name": "",
+          "children": [
+            {
+              "name": "",
+              "value": 5000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "applic.collab. 2",
+      "mlShould": 1,
+      "mlIs": 3,
+      "children": [
+        {
+          "name": "component 1",
+          "children": [
+            {
+              "name": "",
+              "mlShould": 1,
+              "mlIs": 3,
+              "value": 5000
+            }
+          ]
+        },
+        {
+          "name": "component 2",
+          "children": [
+            {
+              "name": "",
+              "value": 5000
+            }
+          ]
+        },
+        {
+          "name": "component 3",
+          "children": [
+            {
+              "name": "",
+              "value": 5000
+            }
+          ]
+        },
+        {
+          "name": "component 4",
+          "children": [
+            {
+              "name": "",
+              "children": [
+                {
+                  "name": "",
+                  "value": 5000
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "applic.collab. 3",
+      "mlShould": 5,
+      "mlIs": 5,
+      "children": [
+        {
+          "name": "",
+          "children": [
+            {
+              "name": "",
+              "children": [
+                {
+                  "name": "",
+                  "children": [
+                    {
+                      "name": "",
+                      "value": 5000
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "applic.collab. 4",
+      "mlShould": 1,
+      "mlIs": 3,
+      "children": [
+        {
+          "name": "",
+          "children": [
+            {
+              "name": "",
+              "value": 5000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "applic.collab. 5",
+      "mlShould": 1,
+      "mlIs": 3,
+      "children": [
+        {
+          "name": "",
+          "children": [
+            {
+              "name": "",
+              "value": 5000
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
